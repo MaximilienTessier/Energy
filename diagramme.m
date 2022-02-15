@@ -14,3 +14,5 @@ for i=1:p
 end
 RDM1 = {N1,T1,M1}; %tableau vectoriel dans lequel on met d'autres vecteurs (=tableau de cellule)
 RDM2 = {N2,T2,M2};
+okokokokokok
+
